@@ -1,0 +1,216 @@
+language_name,genre,service,country,mobile_operator,usage_category,number_of_units,duration
+afrikaans,pop,music on demand,chad,airtel,int,2,9
+arabic,inspirational,music on demand,zambia,airtel,ramadanc,3,181
+arabic,islamic,music on demand,chad,airtel,islam,61,2102
+arabic,islamic,music on demand,chad,airtel,quran,11,179
+arabic,world,music on demand,zambia,airtel,ramadanc,3,24
+bemba,gospel,music on demand,zambia,airtel,top,144,6289
+bemba,urban,music on demand,zambia,airtel,top,118,10647
+bemba,urban local,music on demand,zambia,airtel,fresh,199,8578
+bemba,urban local,music on demand,zambia,airtel,top,1696,117900
+"chichewa, chewa, nyanja",afro pop,music on demand,chad,airtel,gospel,11,105
+"chichewa, chewa, nyanja",gospel,music on demand,zambia,airtel,gospel,6,39
+"chichewa, chewa, nyanja",gospel,music on demand,zambia,airtel,zambia,582,16324
+"chichewa, chewa, nyanja",hip-hop,music on demand,zambia,airtel,fresh,665,23347
+"chichewa, chewa, nyanja",hip-hop,music on demand,zambia,airtel,ruffkid,35,2438
+"chichewa, chewa, nyanja",hip-hop,music on demand,zambia,airtel,slapd,148,11895
+"chichewa, chewa, nyanja",hip-hop,music on demand,zambia,airtel,top,2551,123534
+"chichewa, chewa, nyanja",hip-hop,music on demand,zambia,airtel,zambia,1548,33673
+"chichewa, chewa, nyanja",r&b,music on demand,zambia,airtel,zambia,33,839
+"chichewa, chewa, nyanja",urban,music on demand,zambia,airtel,top,620,45247
+"chichewa, chewa, nyanja",urban,music on demand,zambia,airtel,zambia,64,3257
+"chichewa, chewa, nyanja",urban local,music on demand,zambia,airtel,afunica,18,1545
+"chichewa, chewa, nyanja",urban local,music on demand,zambia,airtel,dalisoul,157,11201
+"chichewa, chewa, nyanja",urban local,music on demand,zambia,airtel,fresh,2420,90701
+"chichewa, chewa, nyanja",urban local,music on demand,zambia,airtel,jk,22,758
+"chichewa, chewa, nyanja",urban local,music on demand,zambia,airtel,mcwabwino,29,381
+"chichewa, chewa, nyanja",urban local,music on demand,zambia,airtel,ogafamily,67,6614
+"chichewa, chewa, nyanja",urban local,music on demand,zambia,airtel,top,7953,456526
+"chichewa, chewa, nyanja",urban local,music on demand,zambia,airtel,zambia,3872,115092
+"chichewa, chewa, nyanja",zambian music,music on demand,zambia,airtel,mcwabwino,1,1
+"chichewa, chewa, nyanja",zambian music,music on demand,zambia,airtel,runnel,55,7112
+"chichewa, chewa, nyanja",zambian music,music on demand,zambia,airtel,zambia,422,12523
+english,afro pop,music on demand,chad,airtel,african,5,104
+english,afro pop,music on demand,chad,airtel,gospel,18,274
+english,afro pop,music on demand,chad,airtel,top,57,2018
+english,afro-beat,music on demand,chad,airtel,gospel,10,602
+english,afro-beat,music on demand,chad,airtel,na,6,620
+english,afro-beat,music on demand,chad,airtel,top,192,11347
+english,alternative,music on demand,chad,airtel,int,2,65
+english,alternative,music on demand,zambia,airtel,int,30,738
+english,ambient-devotional or spiritual,music on demand,chad,airtel,int,3,18
+english,beauty tips,voice alert,zambia,airtel,beauty,206,6386
+english,believe it or not,voice alert,zambia,airtel,bin,729,27702
+english,bemba proverbs,voice alert,zambia,airtel,bp,13588,217408
+english,christian preaching,music on demand,chad,airtel,gospel,2,12
+english,christian preaching,music on demand,chad,airtel,na,8,399
+english,christian preaching,music on demand,zambia,airtel,int,16,329
+english,comedy,music on demand,chad,airtel,int,1,3
+english,comedy,music on demand,zambia,airtel,int,3,195
+english,country,music on demand,chad,airtel,int,16,228
+english,country,music on demand,chad,airtel,top,42,917
+english,country,music on demand,zambia,airtel,universal,2,2
+english,dance,music on demand,chad,airtel,int,56,419
+english,dance,music on demand,chad,airtel,na,1,41
+english,dance,music on demand,chad,airtel,top,266,17228
+english,dance,music on demand,zambia,airtel,int,106,2870
+english,dance,music on demand,zambia,airtel,top,3,70
+english,dance hall,music on demand,chad,airtel,top,96,5331
+english,dance hiphop rap compilation,music on demand,chad,airtel,int,18,116
+english,dance lounge & compilation,music on demand,chad,airtel,int,4,84
+english,dance rnb,music on demand,chad,airtel,int,22,35
+english,dance rnb,music on demand,chad,airtel,na,13,38
+english,dance trance,music on demand,chad,airtel,int,11,64
+english,did you know,voice alert,zambia,airtel,dyk,793,23790
+english,dua,music on demand,chad,airtel,islam,10,112
+english,folk,music on demand,chad,airtel,int,4,19
+english,french pop,music on demand,chad,airtel,int,1,180
+english,french pop,music on demand,chad,airtel,na,6,483
+english,french pop,music on demand,zambia,airtel,int,3,11
+english,general,music on demand,chad,airtel,int,5,15
+english,general,music on demand,zambia,airtel,int,41,223
+english,ghazal,music on demand,chad,airtel,int,16,244
+english,gospel,music on demand,chad,airtel,gospel,3,14
+english,gospel,music on demand,zambia,airtel,fresh,208,7237
+english,gospel,music on demand,zambia,airtel,gospel,74,1577
+english,gospel,music on demand,zambia,airtel,int,182,10400
+english,gospel,music on demand,zambia,airtel,jojomwangaza,13,703
+english,gospel,music on demand,zambia,airtel,top,1276,61604
+english,gospel,music on demand,zambia,airtel,unknown,3,40
+english,gospel,music on demand,zambia,airtel,zambia,232,7329
+english,hi life,music on demand,chad,airtel,african,1,7
+english,hi life,music on demand,chad,airtel,gospel,8,48
+english,hip life,music on demand,chad,airtel,african,3,27
+english,hip life,music on demand,chad,airtel,na,3,37
+english,hip life,music on demand,chad,airtel,top,38,2758
+english,hip life,music on demand,zambia,airtel,fresh,221,3090
+english,hip life,music on demand,zambia,airtel,top,496,19168
+english,hip-hop,music on demand,chad,airtel,gospel,2,6
+english,hip-hop,music on demand,chad,airtel,int,9,222
+english,hip-hop,music on demand,chad,airtel,na,5,378
+english,hip-hop,music on demand,chad,airtel,top,335,19198
+english,hip-hop,music on demand,zambia,airtel,fresh,920,28328
+english,hip-hop,music on demand,zambia,airtel,int,498,10401
+english,hip-hop,music on demand,zambia,airtel,ruffkid,28,1866
+english,hip-hop,music on demand,zambia,airtel,slapd,51,2976
+english,hip-hop,music on demand,zambia,airtel,top,1891,118098
+english,hip-hop,music on demand,zambia,airtel,zambia,329,5807
+english,hip-hop & rap,music on demand,chad,airtel,int,24,874
+english,hip-hop & rap,music on demand,chad,airtel,na,3,126
+english,holiday,music on demand,chad,airtel,gospel,8,93
+english,holiday,music on demand,chad,airtel,int,1,23
+english,holiday,music on demand,zambia,airtel,int,112,1253
+english,indian classical,music on demand,chad,airtel,bollywood,8,63
+english,indian classical,music on demand,zambia,airtel,int,12,161
+english,instrumental,music on demand,chad,airtel,african,1,2
+english,instrumental,music on demand,zambia,airtel,int,7,61
+english,international,music on demand,chad,airtel,african,4,13
+english,islamic,music on demand,chad,airtel,islam,4,134
+english,jazz,music on demand,chad,airtel,int,5,683
+english,jazz,music on demand,zambia,airtel,top,1,6
+english,latin / pop,music on demand,zambia,airtel,int,1,137
+english,latin pop,music on demand,chad,airtel,int,2,7
+english,latin pop,music on demand,zambia,airtel,int,2,8
+english,latin urban,music on demand,chad,airtel,top,32,1519
+english,local,voice chat,zambia,airtel,na,62,14408
+english,musical,music on demand,chad,airtel,int,1,1
+english,naija,music on demand,chad,airtel,african,8,545
+english,personal grooming,voice alert,zambia,airtel,pg,218,10464
+english,pop,beatz,kenya,safaricom,na,3,662
+english,pop,music on demand,chad,airtel,int,56,2316
+english,pop,music on demand,chad,airtel,top,531,23354
+english,pop,music on demand,zambia,airtel,int,171,2172
+english,pop,music on demand,zambia,airtel,top,902,24279
+english,pop,music on demand,zambia,airtel,universal,1,1
+english,r&b,music on demand,chad,airtel,gospel,1,56
+english,r&b,music on demand,chad,airtel,int,23,656
+english,r&b,music on demand,chad,airtel,top,199,10014
+english,r&b,music on demand,zambia,airtel,int,329,5657
+english,rap,music on demand,chad,airtel,int,2,30
+english,rap,music on demand,chad,airtel,na,6,622
+english,rap,music on demand,chad,airtel,top,209,11551
+english,rap,music on demand,zambia,airtel,int,208,8810
+english,reggae,music on demand,chad,airtel,african,3,38
+english,reggae,music on demand,chad,airtel,int,2,46
+english,reggae,music on demand,chad,airtel,na,1,106
+english,reggae,music on demand,zambia,airtel,fresh,469,14337
+english,reggae,music on demand,zambia,airtel,int,63,2293
+english,reggae,music on demand,zambia,airtel,top,871,45421
+english,reggae,music on demand,zambia,airtel,zambia,32,520
+english,rock,music on demand,chad,airtel,int,5,80
+english,rock,music on demand,chad,airtel,top,18,1618
+english,seasonal health,voice alert,zambia,airtel,sh,1567,47010
+english,singer songwriter,music on demand,chad,airtel,int,5,275
+english,soundtrack,music on demand,chad,airtel,int,2,60
+english,soundtrack,music on demand,zambia,airtel,universal,2,41
+english,stress busters,voice alert,chad,airtel,pg,4513,257241
+english,urban,music on demand,zambia,airtel,top,7,291
+english,urban local,music on demand,zambia,airtel,afunica,365,33456
+english,urban local,music on demand,zambia,airtel,fresh,1753,45536
+english,urban local,music on demand,zambia,airtel,jk,98,6361
+english,urban local,music on demand,zambia,airtel,mcwabwino,4,6
+english,urban local,music on demand,zambia,airtel,ozzy,2,274
+english,urban local,music on demand,zambia,airtel,top,2960,186248
+english,urban local,music on demand,zambia,airtel,zambia,3174,94003
+english,world,music on demand,chad,airtel,int,1,16
+english,world,music on demand,zambia,airtel,int,4,12
+english,zambian music,music on demand,zambia,airtel,fresh,412,8586
+english,zambian music,music on demand,zambia,airtel,gospel,7,746
+english,zambian music,music on demand,zambia,airtel,mozegator,46,4477
+english,zambian music,music on demand,zambia,airtel,ruffkid,2,20
+english,zambian music,music on demand,zambia,airtel,runnel,86,7880
+english,zambian music,music on demand,zambia,airtel,top,501,20174
+english,zambian music,music on demand,zambia,airtel,zambia,275,7690
+ewe,gospel,music on demand,chad,airtel,african,1,2
+ewe,hi life,music on demand,chad,airtel,african,1,1
+french,believe it or not,voice alert,chad,airtel,bin,59282,2549126
+french,coupé-décalé,music on demand,chad,airtel,top,66,1783
+french,did you know,voice alert,chad,airtel,dyk,12840,423720
+french,lingala,music on demand,chad,airtel,gospel,7,87
+french,lingala,music on demand,chad,airtel,top,73,4279
+french,pop,music on demand,chad,airtel,na,5,212
+french,r&b,music on demand,chad,airtel,na,14,1417
+french,r&b,music on demand,chad,airtel,top,22,1243
+french,romantic tips,voice alert,chad,airtel,romance,13766,330384
+french,romantic tips,voice alert,zambia,airtel,romance,151,5134
+french,stress busters,voice alert,chad,airtel,stb,4587,133023
+ganda,gospel,music on demand,chad,airtel,gospel,30,294
+lingala,gospel,music on demand,chad,airtel,african,24,2093
+lingala,musique chretienne,music on demand,chad,airtel,african,7,362
+lingala,musique tradi moderne,music on demand,chad,airtel,african,1,135
+lingala,ndombolo,music on demand,chad,airtel,na,12,2219
+lingala,nouveau genre,music on demand,chad,airtel,african,2,167
+lingala,rumba,music on demand,chad,airtel,african,9,1052
+lingala,sebene,music on demand,chad,airtel,african,6,604
+pidgin,afro pop,music on demand,chad,airtel,na,2,209
+pidgin,afro-beat,music on demand,chad,airtel,na,2,303
+southern sotho,gospel,music on demand,zambia,airtel,gospel,14,144
+swahili,bongo flava,beatz,kenya,safaricom,na,1,149
+swahili,bongo flava,music on demand,chad,airtel,gospel,8,41
+swahili,bongo flava,music on demand,chad,airtel,na,17,1118
+swahili,bongo flava,music on demand,chad,airtel,top,19,1325
+swahili,gospel,beatz,kenya,safaricom,na,1,189
+swahili,gospel,music on demand,chad,airtel,gospel,18,947
+swahili,hip-hop,beatz,kenya,safaricom,na,2,417
+swahili,local,music on demand,chad,airtel,na,1,30
+swahili,urban local,beatz,kenya,safaricom,na,6,670
+swahili,urban local,music on demand,zambia,airtel,zambia,152,4904
+tsonga,gospel,music on demand,zambia,airtel,gospel,1,8
+twi,afro pop,music on demand,chad,airtel,gospel,1,80
+twi,afro pop,music on demand,chad,airtel,na,2,8
+twi,dance hall,music on demand,chad,airtel,gospel,1,7
+twi,dance hall,music on demand,chad,airtel,top,16,679
+twi,gospel,music on demand,chad,airtel,african,11,29
+twi,gospel,music on demand,chad,airtel,gospel,4,77
+twi,hi life,music on demand,chad,airtel,african,2,37
+twi,hip life,music on demand,chad,airtel,african,11,73
+twi,hip life,music on demand,chad,airtel,gospel,25,447
+twi,hip life,music on demand,chad,airtel,na,3,321
+twi,hip-hop,music on demand,chad,airtel,gospel,1,2
+twi,reggae,music on demand,chad,airtel,african,1,17
+xhosa,pop,music on demand,chad,airtel,int,1,1
+xhosa,pop,music on demand,zambia,airtel,int,34,978
+yoruba,naija,music on demand,chad,airtel,african,1,261
+zulu,dance,music on demand,chad,airtel,int,1,27
+zulu,gospel,music on demand,zambia,airtel,gospel,7,496
+zulu,pop,music on demand,zambia,airtel,int,3,19
